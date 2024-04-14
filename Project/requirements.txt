@@ -1,0 +1,7 @@
+telebot
+Template
+psycopg2
+datetime
+gspread
+validate_email
+pyTelegramBotAPI

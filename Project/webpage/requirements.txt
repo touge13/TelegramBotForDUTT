@@ -1,0 +1,5 @@
+datetime
+telebot
+psycopg2
+flask
+gunicorn
